@@ -1,0 +1,7 @@
+node_modules
+
+# Allure report files
+*allure*
+
+# Failure screenshots
+errorShots
