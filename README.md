@@ -24,5 +24,5 @@ npm install
 ```
 
 ## Run Tests
-Now you can run example tests using `npm test`
-To view an HTML version of test report `npm run report`. A brosser window should open with Allure HTML report
+Now you can run example tests using `npm test`  
+To view an HTML version of test report `npm run report`. A browser window should open with Allure HTML report
