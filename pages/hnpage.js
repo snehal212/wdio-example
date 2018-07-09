@@ -28,6 +28,7 @@ class HNPage extends Page {
   }
 
   getItemsTitle () {
+    browser.waitForVisible(this.itemTitle, 5000)
     return browser.getText(this.itemTitle)
   }
 

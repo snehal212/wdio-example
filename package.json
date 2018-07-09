@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "./node_modules/.bin/eslint *.js",
     "report": "./node_modules/.bin/allure generate ./allure-results -c && allure open",
-    "test": "./node_modules/.bin/wdio wdio.conf.js"
+    "test": "npm run lint; ./node_modules/.bin/wdio wdio.conf.js"
   },
   "author": "Snehal Patel <snehal212@yahoo.com>",
   "license": "ISC",
