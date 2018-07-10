@@ -1,4 +1,4 @@
-# WebdeiverIO Example Project
+# WebdriverIO Example Project
 
 This example test automation project uses [WebdriverIO](http://webdriver.io/) with Cucumber framework and automates a sample React [Hacker News](https://github.com/insin/react-hn) app.
 
